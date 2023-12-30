@@ -5,12 +5,73 @@ Forge Version: 40.2.14
 
 ### Modlist:
 - conteúdo
+  - alex mobs
+  - artifacts
+  - autumnity
+  - better billage
+  - blue skies
+  - carryon
+  - chefs delight
+  - coffe delight
+  - corpse
   - create
+  - create deco
+  - creeper overhaul
+  - cultural delights
+  - decoration delights
+  - delightful
+  - dragonmounts
+  - dugeons arise
+  - ecologics
+  - elevator id
+  - emotecraft
+  - ends phantasm
+  - environmental
+  - farmers delight
+  - galospere
+  - goblin traders
+  - guard villagers
+  - incendium
+  - iron chest
+  - jade
+  - jei
+  - jer
   - tinkers construct
   - tinkers leveling addon
+  - lenders cataclysm
+  - mowziemobs
+  - oh the biomes you will go
+  - omnis
+  - simple storage
+  - sit
+  - sophisticated backpack
+  - spiders 2.0
+  - stalwart dungeons
+  - terralith
+  - terra forged
+  - towns and towers
+  - twilight forest
+  - voice chat
+  - waystone
+  - xaeros minimap
+  - yungs better desert temples
+  - yungs better dungeons
+  - yungs better mineshafts
+  - yungs better nether fortress
 - otimização
   - rubidium
-  - 
+  - alternate current
+  - canary
+  - chunky
+  - clumps
+  - radon
+  - reforgium
+  - saturn
+  - starlight
+  - spark
+  - xp tome
+  - get it toghether drops
+  - clumps
 - Entre outros (bibliotecas, dependências)
 
 # Versões do Modpack
