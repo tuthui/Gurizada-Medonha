@@ -18,6 +18,37 @@ Oi! se tu ta vendo isso, é porque tu provavelmente tu quer baixar o modpack da 
 
 caso queira ver a diferença, confira [aqui](https://github.com/tuthui/Gurizada-Medonha/blob/main/Info.md#vers%C3%B5es-do-modpack)
 
+- coloque o arquivo `Gurizada medonha.zip` na área de trabalho
+
 # 3° passo: Junta tudo
 
-- No Tlaucher, do lado do botão de "entrar no jogo", tu vai clicar no ícone de uma pasta 📁
+- No Tlaucher, tu vai clicar no botão "TLmods"
+
+![Novo Projeto](https://github.com/tuthui/Gurizada-Medonha/assets/85002617/b79487fa-bd29-4c64-855e-f79b754a50ff)
+:--
+
+- depois, clica no botão de ferramentas, e seleciona "mods de backup"
+  
+![Novo Projeto (1)](https://github.com/tuthui/Gurizada-Medonha/assets/85002617/bb8a328d-0c63-4607-b513-3e8f85046168)
+:--
+
+- clica em "selecione o aquivo"
+
+<p align="left">
+  <img width="560" height="440" src="https://github.com/tuthui/Gurizada-Medonha/assets/85002617/195f21a0-e37b-478e-9cf6-2a6a20c5a03d">
+</p>
+
+- clica em `desktop`, depois seleciona o arquivo `gurizada medonha.zip`, e clica em `aberto`
+
+<p align="left">
+  <img width="560" height="340" src="https://github.com/tuthui/Gurizada-Medonha/assets/85002617/e6bc8707-4bce-4ebe-8954-2930412fffca">
+</p>
+
+- e por fim, clica em "restaurar"
+
+pronto! agora o modpack já ta selecionado, é só clicar em entrar no jogo
+
+![image](https://github.com/tuthui/Gurizada-Medonha/assets/85002617/119874d4-cbc5-4e9e-9c78-cc62ac4e2683)
+
+
+
