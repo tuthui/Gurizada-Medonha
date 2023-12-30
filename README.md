@@ -15,6 +15,6 @@ siga as instruções através desse [tutorial](https://github.com/tuthui/Gurizad
 
 
 # 📌Créditos 
-©thui 2022
+©thui 2023
 
 Este modpack foi criado com carinho para os guris de porto ❤
