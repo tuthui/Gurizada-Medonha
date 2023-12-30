@@ -13,6 +13,8 @@ siga as instruções através desse [tutorial](https://github.com/tuthui/Gurizad
 # 📷 Imagens
 ![image](https://github.com/tuthui/Gurizada-Medonha/assets/85002617/606a8ca1-0caf-4e34-8f85-b3ec187244cf)
 
+# 📄 Informações técnicas
+caso tu esteja curioso pra ver a lista de mods, ou precise de alguma informação, talvez esteja [aqui](https://github.com/tuthui/Gurizada-Medonha/blob/main/Info.md#informa%C3%A7%C3%B5es-t%C3%A9cnicas-b%C3%A1sicas)!
 
 # 📌Créditos 
 ©thui 2023
