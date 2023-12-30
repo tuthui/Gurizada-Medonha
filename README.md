@@ -1,7 +1,5 @@
-# Gurizada-Medonha
 
-
-[![Image](https://user-images.githubusercontent.com/85002617/166125853-42b45278-2be6-4c20-9f78-9a6378229595.png)](https://tuthui.github.io/Colheita-Noturna/)
+![logo gurizada medinha](https://github.com/tuthui/Gurizada-Medonha/assets/85002617/c4070f16-85ed-4bf6-91f3-b16c9918fffc)
 
 # [🔗PLAY NOW!!! - Colheita Noturna](https://tuthui.github.io/Colheita-Noturna/)
 
@@ -12,3 +10,5 @@ Colheita Noturna - A Revolta Das Abóboras é um jogo estilo shooter sobre um pe
 # 📌Créditos 
 
 ©thui 2022
+
+
