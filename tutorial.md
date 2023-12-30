@@ -1,5 +1,5 @@
 # Tutorial
-Oi! se tu ta vendo isso, é porque tu provavelmente tu quer baixar o modpack da Gurizada Medonha. Se esse for o caso, aqui tu vai encontrar o passo a passo com explicação e imagenzinhas!
+Oi! se tu ta vendo isso, é porque provavelmente tu quer baixar o modpack da Gurizada Medonha. Se esse for o caso, aqui tu vai encontrar o passo a passo com explicação e imagenzinhas!
 
 
 # 1º passo: Instalar e configurar o TLauncher
