@@ -1,5 +1,6 @@
-
-![logo gurizada medinha](https://github.com/tuthui/Gurizada-Medonha/assets/85002617/c4070f16-85ed-4bf6-91f3-b16c9918fffc)
+<p align="center">
+  <img src="https://github.com/tuthui/Gurizada-Medonha/assets/85002617/c4070f16-85ed-4bf6-91f3-b16c9918fffc">
+</p>
 
 # 🔎 Sobre
 
