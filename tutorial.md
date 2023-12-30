@@ -2,7 +2,7 @@
 Oi! se tu ta vendo isso, é porque tu provavelmente tu quer baixar o modpack da Gurizada Medonha. Se esse for o caso, aqui tu vai encontrar o passo a passo com explicação e imagenzinhas!
 
 
-# 1º passo: Instalar o TLauncher
+# 1º passo: Instalar e configurar o TLauncher
 (caso tu tenha o mine original, pode pular isso)
 
 - [Clique Aqui](https://tlauncher.org/installer) para baixar
@@ -11,6 +11,16 @@ Oi! se tu ta vendo isso, é porque tu provavelmente tu quer baixar o modpack da 
 <p align="left">
   <img width="460" height="300" src="https://github.com/tuthui/Gurizada-Medonha/assets/85002617/1115f5c3-32d9-434a-8297-cdb9130de68f">
 </p>
+
+quando abrir o TLauncher, clica na engrenagem no canto, e seleciona "configurações"
+
+![image](https://github.com/tuthui/Gurizada-Medonha/assets/85002617/6cd8a049-f544-4b89-9c44-87042211e720)
+
+
+na parte "distinguir memória", coloca mais ou menos isso
+![image](https://github.com/tuthui/Gurizada-Medonha/assets/85002617/af99c11e-6d3d-4100-a9a2-ed55e3f0ecf3)
+
+e não esquece de clicar em "salvar".
 
 
 # 2º passo: Baixe o Modpack
