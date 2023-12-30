@@ -74,7 +74,9 @@ Forge Version: 40.2.14
   - clumps
 - Entre outros (bibliotecas, dependências)
 
-# Versões do Modpack
+# Informações do Modpack
+O modpack, na aba de [downloads](https://github.com/tuthui/Gurizada-Medonha/releases/tag/release), vem em duas versões diferentes: a normal, e a LITE
+
 Essencialmente, a versão  lite é recomendada para pessoas com configurações técnicas modestas.
 
 Em relação à versão padrão, a versão LITE apresenta:
